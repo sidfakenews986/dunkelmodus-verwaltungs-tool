@@ -1,0 +1,15 @@
+body {
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* Hellmodus */
+body {
+  background-color: white;
+  color: black;
+}
+
+/* Dunkelmodus */
+body.dark-mode {
+  background-color: black;
+  color: white;
+}
