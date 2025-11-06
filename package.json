@@ -1,6 +1,6 @@
 {
   "name": "dunkelmodus-verwaltungs-tool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ein Tool zur Verwaltung des Dunkelmodus für Webanwendungen.",
   "main": "src/index.js",
   "scripts": {
