@@ -2,7 +2,7 @@
 
 Wir freuen uns über Beiträge zu diesem Projekt! Um sicherzustellen, dass alle Beiträge den Projektstandards entsprechen, bitten wir Sie, die folgenden Richtlinien zu befolgen:
 
-## Beitrag leisten
+## Anleitung zum Beitrag
 1. Forken Sie das Repository.
 2. Erstellen Sie einen neuen Branch für Ihre Änderungen:
    ```bash
