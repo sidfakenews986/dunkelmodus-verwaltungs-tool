@@ -7,7 +7,7 @@
     "build": "webpack",
     "test": "jest"
   },
-  "author": "Ihr Name",
+  "author": "John Doe",
   "license": "MIT",
   "dependencies": {
     "react": "^17.0.0",
