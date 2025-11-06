@@ -5,12 +5,14 @@ Wir freuen uns über Beiträge zu diesem Projekt! Um sicherzustellen, dass alle 
 ## Anleitung zum Beitrag
 1. Forken Sie das Repository.
 2. Erstellen Sie einen neuen Branch für Ihre Änderungen (z.B. `feature/mein-branch`):
+   
    ```bash
    git checkout -b feature/mein-branch
    ```
 3. Nehmen Sie Ihre Änderungen vor und testen Sie sie.
 4. Fügen Sie eine Beschreibung Ihrer Änderungen zu Ihrem Commit hinzu.
 5. Pushen Sie Ihren Branch:
+   
    ```bash
    git push origin feature/mein-branch
    ```
